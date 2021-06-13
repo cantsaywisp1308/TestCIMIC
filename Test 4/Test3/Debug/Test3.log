@@ -1,0 +1,6 @@
+﻿  Test3.cpp
+C:\Users\DELL\source\repos\Test3\Test3\Test3.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\DELL\source\repos\Test3\Test3\Test3.cpp(11,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\source\repos\Test3\Test3\Test3.cpp(22,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\source\repos\Test3\Test3\Test3.cpp(23,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Test3.vcxproj -> C:\Users\DELL\source\repos\Test3\Debug\Test3.exe

@@ -1,0 +1,4 @@
+﻿  Test1.cpp
+C:\Users\DELL\source\repos\C\Test\Test\Test1.cpp(58,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\DELL\source\repos\C\Test\Test\Test1.cpp(64,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test.vcxproj -> C:\Users\DELL\source\repos\C\Test\Debug\Test.exe

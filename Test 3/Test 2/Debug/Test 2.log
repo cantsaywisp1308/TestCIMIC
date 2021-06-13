@@ -1,0 +1,4 @@
+﻿  Test2.c
+C:\Users\DELL\source\repos\Test 2\Test 2\Test2.c(14,66): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\DELL\source\repos\Test 2\Test 2\Test2.c(14,62): warning C4024: 'CreateThread': different types for formal and actual parameter 5
+  Test 2.vcxproj -> C:\Users\DELL\source\repos\Test 2\Debug\Test 2.exe
